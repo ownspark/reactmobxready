@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/reactmobxready/static/js/main.f5c9912b.chunk.js",
+    "main.js.map": "/reactmobxready/static/js/main.f5c9912b.chunk.js.map",
+    "runtime-main.js": "/reactmobxready/static/js/runtime-main.87e7bda8.js",
+    "runtime-main.js.map": "/reactmobxready/static/js/runtime-main.87e7bda8.js.map",
+    "static/js/2.5c57543e.chunk.js": "/reactmobxready/static/js/2.5c57543e.chunk.js",
+    "static/js/2.5c57543e.chunk.js.map": "/reactmobxready/static/js/2.5c57543e.chunk.js.map",
+    "index.html": "/reactmobxready/index.html",
+    "precache-manifest.bed8a5429eec799ff964c2b7cd4653bd.js": "/reactmobxready/precache-manifest.bed8a5429eec799ff964c2b7cd4653bd.js",
+    "service-worker.js": "/reactmobxready/service-worker.js",
+    "static/js/2.5c57543e.chunk.js.LICENSE.txt": "/reactmobxready/static/js/2.5c57543e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87e7bda8.js",
+    "static/js/2.5c57543e.chunk.js",
+    "static/js/main.f5c9912b.chunk.js"
+  ]
+}

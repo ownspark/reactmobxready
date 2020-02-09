@@ -1,0 +1,2 @@
+(this.webpackJsonpmobius=this.webpackJsonpmobius||[]).push([[0],{12:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),s=t(2),c=t.n(s);t(1),t(11);var o=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",null,"Cleaned "))};c.a.render(r.a.createElement(o,null),document.getElementById("root"))},4:function(e,n,t){e.exports=t(12)}},[[4,1,2]]]);
+//# sourceMappingURL=main.f5c9912b.chunk.js.map
